@@ -1,10 +1,9 @@
 ## 3D Hand Shape and Pose Estimation from a Single RGB Image
-Open source of our CVPR 2019 paper "3D Hand Shape and Pose Estimation from a Single RGB Image"
-
 ![prediction example](teaser.png)
 
 ### Introduction
-This work is based on [this CVPR 2019 paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2).
+This work is based on [this CVPR 2019 paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2). 
+Here is the [original repository](https://github.com/geliuhao/3DHandShapePosefromRGB).
 
 ### Installation
 1. Install pytorch == v1.4.0 following [official instruction](https://pytorch.org/).

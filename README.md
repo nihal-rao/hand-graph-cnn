@@ -6,7 +6,7 @@ This work is based on [this CVPR 2019 paper](https://docs.google.com/viewer?a=v&
 Here is the [original repository](https://github.com/geliuhao/3DHandShapePosefromRGB).
 
 ### Installation
-1. Install pytorch == v1.4.0 following [official instruction](https://pytorch.org/).
+1. Install pytorch == v1.4.0 (not >=0.4.0 as the original repo says)following [official instruction](https://pytorch.org/).
 2. Clone this repo, and we'll call the directory that you cloned as ${HAND_ROOT}.
 3. Install dependencies:
     ```
